@@ -3,10 +3,8 @@ from utils.api_call import get_data
 
 
 def process(coin,date):
-    url="https://api.coingecko.com/api/v3/coins/"+coin+"/history?date="+date
-    data={}
+    url=str("https://api.coingecko.com/api/v3/coins/"+str(coin)+"/history?date="+str(date))
     data=dict(get_data(url))
-
     for element in data:
         if('dict' in str(type(data[element])) and element != 'market_data'):
             temp=dict(data[element])
