@@ -1,3 +1,0 @@
-Date,id,symbol,name,localization,image,current_price,market_cap,total_volume,forks,stars,subscribers,total_issues,closed_issues,pull_requests_merged,pull_request_contributors,code_additions_deletions_4_weeks,commit_count_4_weeks
-01-09-2022,bitcoin,btc,Bitcoin,Bitcoin,https://assets.coingecko.com/coins/images/1/thumb/bitcoin.png?1547033579,20023.55444491251,383348414528.78253,27825786159.855602,32928,65975,3926,7046,6587,10081,804,"{'additions': 6871, 'deletions': -5643}",246
-02-09-2022,bitcoin,btc,Bitcoin,Bitcoin,https://assets.coingecko.com/coins/images/1/thumb/bitcoin.png?1547033579,20153.975977982507,385027707310.6654,25616737335.88055,32932,65983,3926,7048,6588,10083,804,"{'additions': 7370, 'deletions': -5747}",269
