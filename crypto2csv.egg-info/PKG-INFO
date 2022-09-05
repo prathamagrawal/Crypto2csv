@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: crypto2csv
+Version: 0.1.0
+Summary: A Package to download and saccess cryptocurrecy data using API.
+Home-page: https://github.com/prathamagrawal/crypto2csv
+Author: Fearsomejockey
+Author-email: prathamagrawal1205@gmail.com
+License: Apache License 2.0
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Blockchain-Data
+Extracting Blockchain and respective cryptocurrency dataset
+
+Tool used to extract data for a particular blockchain & cryptocurrency  for a specific date or a data range. 
+The data can be downloaded as a csv file for easier manipulation. 
+
+The data can be used to understand trends. 
+
+

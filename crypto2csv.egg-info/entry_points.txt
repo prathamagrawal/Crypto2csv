@@ -1,0 +1,3 @@
+[console_scripts]
+crypto2csv = crypto2csv.main:main
+
