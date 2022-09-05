@@ -1,5 +1,4 @@
 import pandas
-
 from utils.api_call import get_data
 
 def detailed_data(coin):
