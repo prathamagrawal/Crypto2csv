@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: crypto2csv
-Version: 0.1.0
+Version: 0.1.1
 Summary: A Package to download and saccess cryptocurrecy data using API.
 Home-page: https://github.com/prathamagrawal/crypto2csv
 Author: Fearsomejockey
