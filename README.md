@@ -6,7 +6,7 @@
 
 Crypto2csv is a python package accessible via command line for accessing crytocurrencies data in a readable csv format. 
 
-## Setting up Crytpo2Csv
+## Setting up Crypto2csv
 
 open the terminal in the folder in which you wish to download the package. 
 
