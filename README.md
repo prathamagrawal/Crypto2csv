@@ -45,13 +45,28 @@ You have successfully installed the latest version of crypto2csv!
 
 ## Usage
 There are 2 commands as of the moment. <br />
-- crypto2csv "coin-name" <br />
+### Get Detailed Information <br /> 
+```
+crypto2csv "coin-name"
+```
 The command returns a csv file in the folder location with an extensive details for the cryptocurrency coin. 
 The obtained csv files contains more than 75+ fields of information. The information is extracted to the latest date by coingecko. 
 
-- crypto2csv "coin-name" "start-date" "end-date" <br />
-The command returns a csv file with an details for the cryptocurrency coin over a specified date range. 
+### Get Interval Information <br />
+```
+crypto2csv "coin-name" "start-date" "end-date" 
+``` 
+The command returns a csv file with an details for the cryptocurrency coin over a specified date range.
+
 The obtained csv files contains more than 14+ fields of information. 
+Note: The specified date should be in the format `DD-MM-YYYY` 
+
+Distributed under the *MIT License*. See [`LICENSE`](https://github.com/prathamagrawal/crypto2save/LINCENSE) for more information.
+
+
+
+
+
 
 
 
