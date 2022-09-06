@@ -1,7 +1,5 @@
-# Blockchain-Data
-Extracting Blockchain and respective cryptocurrency dataset
+# Crypto2csv
 
-Tool used to extract data for a particular blockchain & cryptocurrency  for a specific date or a data range. 
-The data can be downloaded as a csv file for easier manipulation. 
+![alt text](https://github.com/prathamagrawal/crypto2csv/blob/main/logo.png?raw=true)
 
-The data can be used to understand trends. 
+Command Line tool utility used to download cryptocurrency to a csv file.  
