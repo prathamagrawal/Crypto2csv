@@ -61,6 +61,9 @@ The command returns a csv file with an details for the cryptocurrency coin over 
 The obtained csv files contains more than 14+ fields of information. 
 Note: The specified date should be in the format `DD-MM-YYYY` 
 
+## Output
+After running any of the above commands, a csv file would be generated and saved in the folder terminal is pointing to. It would be the name of `output.csv`. 
+
 Distributed under the *MIT License*. See [`LICENSE`](https://github.com/prathamagrawal/crypto2save/LINCENSE) for more information.
 
 
