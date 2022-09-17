@@ -5,6 +5,7 @@ from .api_call import get_data
 def process(coin,date):
     url=str("https://api.coingecko.com/api/v3/coins/"+str(coin)+"/history?date="+str(date))
     data=dict(get_data(url))
+    #return a case for null pointer and make the data null
     for element in data:
         if('dict' in str(type(data[element])) and element != 'market_data'):
             temp=dict(data[element])
